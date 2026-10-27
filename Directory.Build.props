@@ -1,0 +1,3 @@
+<Project>
+  <!-- Standalone tool: stops MSBuild from picking up settings from any parent folder. -->
+</Project>

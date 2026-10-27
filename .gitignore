@@ -1,0 +1,20 @@
+# Build output
+build/
+dist/
+*.zip
+bin/
+obj/
+
+# IDE / OS
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+Thumbs.db
+.DS_Store
+
+# Never commit game files or decompiled game code
+Managed/
+_decomp/
+*Assembly-CSharp*.dll
